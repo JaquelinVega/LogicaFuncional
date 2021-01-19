@@ -25,3 +25,5 @@ lista (x:xs) = x
 lista2 x= tail x
 lista3 x= head x
 
+
+
